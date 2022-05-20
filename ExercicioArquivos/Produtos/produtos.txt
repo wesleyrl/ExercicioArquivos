@@ -1,0 +1,8 @@
+############ PRODUTO #################
+Nome: Maça
+Preço: 2,9
+Quantidade: 2
+Nome: Melão
+Preço: 1,99
+Quantidade: 44
+----------------------------
